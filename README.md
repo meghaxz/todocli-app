@@ -11,3 +11,7 @@ A beginner-friendly command-line To-Do List application using Python.
 ## How to Run
 ```bash
 python todo.py
+---
+
+### Created by:
+Meghaxz
